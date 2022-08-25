@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/othimar/frontend-mentor-interactive-card-details-form-main/upload/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Github](https://github.com/othimar/frontend-mentor-interactive-card-details-form-main/upload/main)
+- [Live Site](https://othimar.github.io/frontend-mentor-interactive-card-details-form-main/)
 
 ## My process
 
